@@ -1,3 +1,5 @@
+
+//ZADANIE 3
 #include <iostream>
 
 int sumaCyfr(int liczba) {
